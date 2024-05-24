@@ -117,7 +117,7 @@ nav button a {
     background: #FFFFFF;
     border-radius: 0.5rem;
     position: absolute;
-    left: 60%;
+    left: 55%;
     top: 20%;
 }
 
@@ -250,6 +250,7 @@ padding-top: 3.125rem;
 }
 
 .btn-container {
+    top: 90%;
     position: absolute;
     left: 34.375rem;
 }
@@ -690,7 +691,7 @@ text-align: center;
     position: absolute;
     top: 480rem;
     left: 25rem;
-    padding-bottom: 6.25rem;
+    padding-bottom: 3.25rem;
 }
 
 .with-love span {
